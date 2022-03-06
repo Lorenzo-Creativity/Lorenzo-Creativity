@@ -28,7 +28,7 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![Vue](https://img.shields.io/badge/-vuejs-green?style=plastic&logo=vuejs)
+  ![Vue](https://img.shields.io/badge/-Vue.JS-green?style=plastic&logo=vuejs)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
