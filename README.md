@@ -8,7 +8,11 @@
 <p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I code. Connect with me here -<p>
 <p>- 🏢 I'm currently studying at **SDUST**<p>
-<p>- 🚀 I use daily:
+
+    
+    
+    
+- 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=java)
   ![Golang](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=golang)
   ![C++](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=c++)
@@ -17,7 +21,6 @@
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![Jetbrains Intellij IDEA](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-<p>
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
