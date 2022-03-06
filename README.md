@@ -13,7 +13,7 @@
     
     
 - 🚀 I use daily:
-  ![Java](https://img.shields.io/badge/-java-yellow?style=plastic&logo=java)
+  ![Java](https://img.shields.io/badge/-java-blue?style=plastic&logo=java)
   ![Golang](https://img.shields.io/badge/-golang-black?style=plastic&logo=golang)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
