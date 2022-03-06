@@ -14,12 +14,11 @@
     
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-java-blue?style=plastic&logo=java)
-  ![Golang](https://img.shields.io/badge/-Go-black?style=plastic&logo=go)
+  ![Golang](https://img.shields.io/badge/-Go-BBFFFF?style=plastic&logo=go)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![Jetbrains Intellij IDEA](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
