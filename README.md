@@ -9,12 +9,15 @@ I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I c
 [![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 -->
-- 🏢 I'm currently studying at **School**
+- 🏢 I'm currently studying at **SDUST**
 - 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+- ![Java](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=java)
+- ![Golang](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=golang)
+  ![C++](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=c++)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![Jetbrains Intellij IDEA](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
