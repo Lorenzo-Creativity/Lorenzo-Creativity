@@ -9,13 +9,7 @@
  <p>I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I code. Connect with me here -<p>
  <p>- 🏢 I'm currently studying at SDUST<p>
 
-  <!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/Lorenzo-Creativity/Algorithm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorenzo-Creativity&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/Lorenzo-Creativity/AccessExchange-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorenzo-Creativity&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>  
+
     
     
 - 🚀 I use daily:
@@ -44,6 +38,13 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
+       <!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/Lorenzo-Creativity/Algorithm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorenzo-Creativity&repo=Algorithm&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/Lorenzo-Creativity/AccessExchange-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorenzo-Creativity&repo=AccessExchange-System&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>  
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
