@@ -66,7 +66,7 @@
 <br>
 <div align="center"> <img src="https://metrics.lecoq.io/Lorenzo-Creativity?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Lorenzo-Creativity&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 <div align="center"> 
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Creativity&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
