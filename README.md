@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Lorenzo,祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have a nice day，Lorenzo!&center=true&size=27">
 </h1>
 
 #  👋 Hello
@@ -9,7 +9,13 @@
  <p>I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I code. Connect with me here -<p>
  <p>- 🏢 I'm currently studying at SDUST<p>
 
-    
+  <!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/Lorenzo-Creativity/Algorithm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorenzo-Creativity&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/Lorenzo-Creativity/AccessExchange-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorenzo-Creativity&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>  
     
     
 - 🚀 I use daily:
