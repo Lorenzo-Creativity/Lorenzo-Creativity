@@ -5,9 +5,9 @@
 
 #  👋 Hello
 
-<p>✍️&nbsp;&nbsp;Hello, I am Lorenzo, !</p>
-<p>I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I code. Connect with me here -<p>
-<p>- 🏢 I'm currently studying at SDUST<p>
+ <p>✍️&nbsp;&nbsp;Hello, I am Lorenzo, !</p>
+ <p>I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I code. Connect with me here -<p>
+ <p>- 🏢 I'm currently studying at SDUST<p>
 
     
     
