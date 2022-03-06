@@ -7,14 +7,14 @@
 
 <p>✍️&nbsp;&nbsp;Hello, I am Lorenzo, !</p>
 <p>I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I code. Connect with me here -<p>
-<p>- 🏢 I'm currently studying at **SDUST**<p>
+<p>- 🏢 I'm currently studying at SDUST<p>
 
     
     
     
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-java-blue?style=plastic&logo=java)
-  ![Golang](https://img.shields.io/badge/-golang-black?style=plastic&logo=golang)
+  ![Golang](https://img.shields.io/badge/-go-black?style=plastic&logo=golang)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -23,6 +23,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 - 💻 I work using:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
