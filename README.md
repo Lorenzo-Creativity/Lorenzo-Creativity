@@ -68,9 +68,9 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+<!--   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lorenzo-Creativity" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+<!--   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
 </div>
 <br>
 <div align="center"> <img src="https://metrics.lecoq.io/Lorenzo-Creativity?template=classic&config.timezone=Asia%2FShanghai"> </div>
