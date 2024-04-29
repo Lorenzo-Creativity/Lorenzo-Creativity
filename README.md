@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorenzo-Creativity&repo=AccessExchange-System&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>  
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 
 <!-- Gif -->
