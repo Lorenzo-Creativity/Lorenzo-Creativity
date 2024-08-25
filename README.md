@@ -7,7 +7,7 @@
 
  <p>✍️&nbsp;&nbsp;Hello, I am Lorenzo, love computer science and it Internet business, and aspire to become a senior backend development engineer!</p>
  <p>I love to talk on trending ⚡ technology ⚡, I am a bit 😄 mad 😄 when I code. Connect with me here -<p>
- <p>- 🏢 I'm currently studying at SDUST<p>
+ <p>- 🏢 I'm currently studying <p>
 
 
     
